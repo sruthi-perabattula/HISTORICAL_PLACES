@@ -1,0 +1,88 @@
+.grid-container{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(208,231,12,0.38697477281928394) 0%, rgba(34,192,224,1) 100%);
+    width:100%;
+    align-content: center;
+    border-color: brown;
+ } 
+ .column{
+   
+   margin-left: 4px;
+  
+  
+}
+ img{
+    height: 300px;
+    width: 417px;
+ }
+ #a{
+    margin-top: 20px;
+    
+ }
+ #header{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-decoration-color: linear-gradient(90deg,orange ,white,green);
+    background: linear-gradient(90deg, green ,white,orange);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 55px;
+    font-family: fantasy;
+    
+}
+#footer{
+    bottom: 0px;
+    width: 99.5%;
+    background: linear-gradient(90deg, green ,white,orange);
+    font-family: fantasy;
+    text-align: center;
+    font-size: 30px ;
+}
+button{
+    margin-left: 160px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(134,231,12,0.38697477281928394) 0%, rgba(14,228,208,1) 100%, rgba(34,192,224,1) 100%);
+    font-size: 20px;
+    border-radius: 10px;
+    font-style: italic;
+}
+#A{
+    margin-left: 135px;
+}
+#B{
+    margin-left: 310px;
+    
+}
+#C{
+    margin-left: 310px;
+    
+}
+#D{
+    margin-left: 90px;
+   
+}
+#E{
+    margin-left: 220px;
+
+}
+#F{
+    margin-left: 265px;
+  
+}
+#G{
+    margin-left: 90px;
+
+}
+#H{
+    margin-left: 220px;
+
+}
+#I{
+    margin-left: 285px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: green;
+}
